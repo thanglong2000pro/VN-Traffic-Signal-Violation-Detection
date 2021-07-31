@@ -16,7 +16,7 @@
 - Labelme
 - Scikit-learn
 - Keras
-- 
+
 ## MODEL: LSTM + ATTENTION ##
 <img src="Readme/model.png">
 
