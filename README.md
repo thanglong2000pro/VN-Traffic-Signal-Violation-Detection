@@ -23,6 +23,7 @@
 ## RESULT ##
 - Loss:
 <img src="Readme/result1.png">
+
 - Model Summary:
 <img src="Readme/result2.png">
 
